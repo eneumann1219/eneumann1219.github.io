@@ -1,3 +1,15 @@
+The Molecular Evolution of the mtATP-6 Gene
+
+Authors: Eva Neumann, Mandhi Bhatt, Lexie Miller 
+
+Abstract: This research project looks at the mtATP-6 gene in humans and compares them to other species to understand the evolution of this gene overtime. In humans, mutations in this gene are responsible for Leigh’s Syndrome and NARP and can be further understood by looking at the molecular evolution of the gene. With mitochondrial DNA data from multiple species in GenBank, we can discover the high levels of similarity of the mtATP-6 gene among species and observe the relatedness through a multiple sequence alignment and phylogenetic tree to see the limited evolution over time.
+
+Introduction: 
+1. Our original interest was in mutations within the mtATP-6 gene and how these mutations lead to various disease states such as Leigh’s syndrome and NARP syndrome
+2. Mutation of the mtATP-6 was one of the first mitochondrial disease states
+3. In order to enhance our knowledge of the mtATP-6 gene, we are going to construct a phylogenetic tree of this gene across different species 
+4. Once we have our phylogenetic tree, we will be able to draw conclusions about how this gene has evolved over time, and exactly how these mutations are occurring in humans to cause diseased states such as Leigh’s and NARP
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eneumann1219/eneumann1219.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
