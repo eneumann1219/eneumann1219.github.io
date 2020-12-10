@@ -10,40 +10,30 @@ Introduction:
 3. In order to enhance our knowledge of the mtATP-6 gene, we are going to construct a phylogenetic tree of this gene across different species 
 4. Once we have our phylogenetic tree, we will be able to draw conclusions about how this gene has evolved over time, and exactly how these mutations are occurring in humans to cause diseased states such as Leigh’s and NARP
 
-## Welcome to GitHub Pages
+Methods:
+1. BLAST
+2. GenBank/PubMed
+3. Multiple Sequence Alignment 
+4. Phylogenetic tree 
+5. Data from humans and other species found on GenBank
+6. Species: homo sapien, norway rat, house mouse, zebra fish, Adriatic trout, domestic pig
 
-You can use the [editor on GitHub](https://github.com/eneumann1219/eneumann1219.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Results: 
+1. Tree program uses MSA to construct phylogenetic history of the mt-atp6 gene 
+2. A large gap in evolution for human mitochondrial DNA that cause the presence of diseases like Leigh Syndrome and NARP
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+References:
+1. Altschul, S.F. et al. (1990) Basic local alignment search tool. J. Mol. Biol., 215:403-410
 
-### Markdown
+2. Bayona-Bafaluy MP et al. (2003) Revisiting the mouse mitochondrial DNA sequence. Nucleic Acids Res.15;31(18):5349-55. doi: 10.1093/nar/gkg739. PMID: 12954771; PMCID: PMC203322.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Broughton R.E. et al. (2001) The complete sequence of the zebrafish (Danio rerio) mitochondrial genome and evolutionary patterns in vertebrate mitochondrial DNA. Genome Res.(11):1958-67. doi: 10.1101/gr.156801. PMID: 11691861; PMCID: PMC311132.
 
-```markdown
-Syntax highlighted code block
+4. Liu G. et al. (2010) Genetic variations and sequences analysis of MTATP6 and MTATP8 genes among different Chinese pig breeds. J Anim Breed Genet. 127(6):474-80. doi: 10.1111/j.1439-0388.2010.00877.x. Epub 2010 Oct 28. PMID: 21077971.
 
-# Header 1
-## Header 2
-### Header 3
+5. Madeira, F. et al. (2019) The EMBL-EBI search and sequence analysis tools APIs in 2019. Nucleic Acids Research, 47(W1):W636-W641. 
 
-- Bulleted
-- List
+6. Ganetzky, Rebecca D et al. (2019) MT-ATP6 mitochondrial disease variants: Phenotypic and biochemical features analysis in 218 published cases and cohort of 14 new cases. Human mutation vol. 40,5 (2019): 499-515. doi:10.1002/humu.23723
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eneumann1219/eneumann1219.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
